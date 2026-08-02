@@ -16,16 +16,20 @@ bio: |
 
 links:
   - icon: at-symbol
-    url: mariusvalentin9918@gmail.com
+    url: "mailto:mariusvalentin9918@://gmail.com"
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/mariusvalentin189
+    label: Github page
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/mariusvalentin/
+    label: Linkedin page
   - icon: brands/itchdotio
     url: https://mariusdev.itch.io
+    label: Itch io page
   - icon: brands/instagram
     url: https://www.instagram.com/mariusgamedev/
+    label: instagram page
 interests:
   - Game Development
   - Software Development
