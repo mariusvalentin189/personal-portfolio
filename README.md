@@ -28,5 +28,5 @@ The portfolio leverages modern static-site technology to deliver ultra-fast load
 
 ## 📄 License & Intellectual Property
 
-* **Content, Assets & Media**: © 2026 [Your Full Name]. All rights reserved. All proprietary source code, game assets, logic, and project descriptions remain the sole intellectual property of the developer.
+* **Content, Assets & Media**: © 2026 Marius Ciinaru. All rights reserved. All proprietary source code, game assets, logic, and project descriptions remain the sole intellectual property of the developer.
 * **Theme Architecture**: The underlying website framework is built upon the open-source [Hugo Blox Developer Template](https://github.com) and is used under the terms of the MIT License.
