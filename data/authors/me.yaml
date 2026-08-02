@@ -11,7 +11,7 @@ status:
 role: Software Engineer & Game Developer
 email: mariusvalentin9918@gmail.com
 bio: |
-  Full-stack developer with 4+ years of experience building scalable applications and games.
+  Software developer with 4+ years of experience building scalable applications and games.
   Passionate about Game and Software Development. 
 
 links:
@@ -22,7 +22,10 @@ links:
     url: https://github.com/mariusvalentin189
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/mariusvalentin/
-
+  - icon: brands/itch
+    url: https://mariusdev.itch.io
+  - icon: brands/instagram
+    url: https://www.instagram.com/mariusgamedev/
 interests:
   - Game Development
   - Software Development
