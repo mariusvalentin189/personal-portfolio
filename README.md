@@ -2,7 +2,7 @@
 
 This repository contains the source code and media assets for my personal developer portfolio and software engineering hub. It serves as a centralized platform to showcase my technical engineering projects, game development builds, and core programming capabilities.
 
-🌐 **[Visit the Live Portfolio](TBA)**
+🌐 **[Visit the Live Portfolio](https://mariusvalentin189.github.io/personal-portfolio/)**
 
 ---
 
