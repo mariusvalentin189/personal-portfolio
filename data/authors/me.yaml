@@ -3,7 +3,7 @@ slug: me
 is_owner: true
 name:
   display: Marius Ciinaru
-  given: Alex
+  given: Marius
   family: Ciinaru
 postnominals: []
 status:
@@ -16,14 +16,12 @@ bio: |
 
 links:
   - icon: at-symbol
-    url: mailto:alex@example.com
+    url: mariusvalentin9918@gmail.com
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/alexjohnson
+    url: https://github.com/mariusvalentin189
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnson/
-  - icon: brands/x
-    url: https://x.com/alexjohnson
+    url: https://www.linkedin.com/in/mariusvalentin/
 
 interests:
   - Game Development
