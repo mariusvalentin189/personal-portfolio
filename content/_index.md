@@ -103,8 +103,8 @@ sections:
               icon: devicon/Unity
         - name: Database
           items:
-            -name: MySQL
-             icon: devicon/mysql
+            - name: MySQL
+              icon: devicon/mysql
     design:
       style: grid
       show_levels: false
