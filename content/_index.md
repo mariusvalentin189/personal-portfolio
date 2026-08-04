@@ -85,10 +85,26 @@ sections:
           items:
             - name: Python
               icon: devicon/python
+            - name: C#
+              icon: devicon/charp
+            - name: C/C++
+              icon: devicon/cplusplus
+            - name: Java
+              icon: devicon/java
         - name: DevOps
           items:
             - name: GitHub Actions
               icon: brands/github
+            - name: CI/CD
+              icon: brands/jenkins
+        - name: Game Development
+          items:
+            - name: Unity Engine
+              icon: devicon/Unity
+        - name: Database
+          items:
+            -name: MySQL
+             icon: devicon/mysql
     design:
       style: grid
       show_levels: false
