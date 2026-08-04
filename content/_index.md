@@ -100,7 +100,7 @@ sections:
         - name: Game Development
           items:
             - name: Unity Engine
-              icon: devicon/Unity
+              icon: devicon/unity
         - name: Database
           items:
             - name: MySQL
