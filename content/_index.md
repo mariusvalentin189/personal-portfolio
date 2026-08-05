@@ -123,15 +123,15 @@ sections:
       date_format: Jan 2006
       items:
         - title: Freelance Unity Developer
-            company: Fiverr
-            company_url: 'https://www.fiverr.com/marius189'
-            company_logo: ''
-            location: Bucharest, Romania
-            date_start: '2020-03-01'
-            date_end: '2023-03-19'
-            description: |2-
-              * Unity Game Development
-              * Worked with people on Unity projects and games of different genres
+          company: Fiverr
+          company_url: 'https://www.fiverr.com/marius189'
+          company_logo: ''
+          location: Bucharest, Romania
+          date_start: '2020-03-01'
+          date_end: '2023-03-19'
+          description: |2-
+            * Unity Game Development
+            * Worked with people on Unity projects and games of different genres
 
         - title: Software Engineer
           company: Fev Romania
