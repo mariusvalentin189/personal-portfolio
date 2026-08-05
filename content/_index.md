@@ -86,7 +86,7 @@ sections:
             - name: Python
               icon: devicon/python
             - name: C#
-              icon: devicon/charp
+              icon: devicon/csharp
             - name: C/C++
               icon: devicon/cplusplus
             - name: Java

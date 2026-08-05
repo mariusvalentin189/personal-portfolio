@@ -33,7 +33,7 @@ A 2D Platformer style game set into medieval times where monsters and magic crea
 
 ## Overview
 
-Develped a 2D Platformer style game with RPG mechanics.
+Developed a 2D Platformer style game with RPG mechanics.
 
 ## Challenges & Solutions
 
