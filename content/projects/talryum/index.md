@@ -4,7 +4,7 @@ date: 2024-01-07
 summary: "2D Platforemer game made in Unity"
 tags: 
   - Unity
-  - Game-Development
+  - Game-Dev
   - 2D
   - Platformer
 tech_stack:
