@@ -131,7 +131,6 @@ sections:
           date_end: '2023-03-19'
           description: |2-
             * Unity Game Development
-            * Worked with people on Unity projects and games of different genres
 
         - title: Software Engineer
           company: Fev Romania
