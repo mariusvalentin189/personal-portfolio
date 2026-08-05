@@ -49,7 +49,7 @@ experience:
     start: 2020-03-01
     end: 2023-03-19
     summary: |
-       Unity Game Development: Worked with people on Unity projects and games of different genres.\n
+       Unity Game Development: Worked with people on Unity projects and games of different genres.  
        Link to profile: https://www.fiverr.com/marius189
        
 
@@ -57,9 +57,9 @@ experience:
     org: FEV Romania
     start: 2022-07-08
     summary: |
-       Model-Based Development: Design, simulate, and validate complex software architectures using Simulink and ASCET to ensure system stability.\n
-       C/C++ Core Programming: Write, optimize, and debug clean embedded C/C++ code for high-performance applications.\n
-       Python Application Development: Develop and deploy custom Python applications to automate internal workflows and data processing.\n
+       Model-Based Development: Design, simulate, and validate complex software architectures using Simulink and ASCET to ensure system stability.  
+       C/C++ Core Programming: Write, optimize, and debug clean embedded C/C++ code for high-performance applications.  
+       Python Application Development: Develop and deploy custom Python applications to automate internal workflows and data processing.  
        CI/CD Automation: Architect and manage end-to-end Jenkins pipelines to streamline software builds, automated testing, and deployment cycles.
 
 skills:
