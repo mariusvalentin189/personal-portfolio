@@ -18,7 +18,7 @@ links:
     url: https://mariusdev.itch.io/talryum-last-hope
     label: Demo
 featured: true
-status: "Live"
+status: "Completed"
 role: "Game Developer"
 duration: "12 months"
 team_size: 1
@@ -59,6 +59,6 @@ Developed a 2D Platformer style game with RPG mechanics.
 
 ---
 
-**Project Status**: ✅ Live 
+**Project Status**: ✅ Completed 
 **GitHub**: [View Source Code](https://github.com/mariusvalentin189/Talryum)  
-**Demo**: [Try it Live](https://mariusdev.itch.io/talryum-last-hope)
+**Demo**: [Play it](https://mariusdev.itch.io/talryum-last-hope)

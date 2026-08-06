@@ -18,7 +18,7 @@ links:
     url: https://mariusdev.itch.io/mage-defender
     label: Demo
 featured: true
-status: "Live"
+status: "Completed"
 role: "Game Developer"
 duration: "6 months"
 team_size: 1
@@ -58,6 +58,6 @@ Developed a 3D Tower Deffence game with upgrades mechanics. The player is able t
 
 ---
 
-**Project Status**: ✅ Live 
+**Project Status**: ✅ Completed 
 **GitHub**: [View Source Code](https://github.com/mariusvalentin189/Mage-Defender)  
-**Demo**: [Try it Live](https://mariusdev.itch.io/mage-defender)
+**Demo**: [Play it](https://mariusdev.itch.io/mage-defender)
