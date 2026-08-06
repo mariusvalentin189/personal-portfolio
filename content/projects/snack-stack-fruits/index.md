@@ -52,5 +52,5 @@ Developed a 3-Match game that uses the basic 3-Match games rules. The game has 1
 
 ---
 
-**Project Status**: 🛠️ In progress 
+**Project Status**: 🛠️ Progress 
 **GitHub**: [View Source Code](https://github.com/mariusvalentin189/Snack-Stack-Fruits)
