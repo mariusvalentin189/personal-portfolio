@@ -58,8 +58,8 @@ Developed a 3D Tower Defense game with upgrade mechanics. The player can place a
 
 ## Screenshots
 
-![](mage-defender1.png)
-![](mage-defender2.png)
+![](mage_defender1.png)
+![](mage_defender2.png)
 
 ---
 
