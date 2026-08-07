@@ -57,6 +57,13 @@ Developed a 2D platformer game with RPG mechanics.
 
 **Solution**: Added health potions to the shop, which can be purchased using Coins. To maintain game balance, the number of potions the player can carry at any given time is limited.
 
+## Screenshots
+
+![](talryum_1.png)
+![](talryum_2.png)
+![](talryum_3.png)
+![](talryum_4.png)
+
 ---
 
 **Project Status**: ✅ Completed 
