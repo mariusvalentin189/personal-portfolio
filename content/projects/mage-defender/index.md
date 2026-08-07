@@ -56,6 +56,11 @@ Developed a 3D Tower Defense game with upgrade mechanics. The player can place a
 
 **Solution**: Unlocking tower upgrades allows towers to be upgraded during gameplay. Purchasing a tower places it at the first upgrade level, while further upgrades require spending Coins earned during the level.
 
+## Screenshots
+
+![](mage-defender1.png)
+![](mage-defender2.png)
+
 ---
 
 **Project Status**: ✅ Completed 
