@@ -14,9 +14,6 @@ links:
   - type: github
     url: https://github.com/mariusvalentin189/Snack-Stack-Fruits
     label: Code
-  - type: live
-    url: https://mariusdev.itch.io
-    label: Demo
 featured: true
 status: "In Progress"
 role: "Game Developer"
