@@ -30,24 +30,24 @@ A 3-Match game that uses the basic 3-Match games rules.
 
 ## Overview
 
-Developed a 3-Match game that uses the basic 3-Match games rules. The game has 10 level with increasing difficulty. The game does not have the power ups system used in many games of this type. The main purpose of this project was to implement the algorithm for this type of game.
+Developed a match-3 game in Unity based on the core mechanics of the genre. The game features 10 levels with progressively increasing difficulty. Unlike many commercial match-3 games, it does not include power-ups, as the primary focus of the project was implementing the core gameplay algorithms and mechanics.
 
 ## Challenges & Solutions
 
-### Challenge 1: Game mechanics
-**Problem**: Game mechanics need to be implemented in such a was that it does not match unwanted pieces at any point.
+### Challenge 1: Core Gameplay Mechanics
+**Problem**: Implementing the game mechanics in a way that prevents unintended matches and ensures consistent gameplay.
 
-**Solution**: The core gameplay mechanics were implemented: matching tiles on each of possible combinations, spawning new pieces on top that fall and check again for matches.
+**Solution**: Implemented the core match-3 mechanics, including detecting all valid tile match combinations, removing matched tiles, spawning new tiles from the top of the board, allowing them to fall into place, and continuously checking for cascading matches until no further matches remain.
 
-### Challenge 2: Levels
-**Problem**: Level building: manual vs random.
+### Challenge 2: Level Generation
+**Problem**: Deciding between manually designed levels and randomly generated boards.
 
-**Solution**: Built the level with random pieces. This added a challenge: spawn the pieces so taht no match happens on spawn. For this an algorithm was implemeted to check for matches on tile spawn.
+**Solution**: Chose to generate boards using random tile placement. This introduced the challenge of preventing matches from occurring when the board is first generated. To solve this, an algorithm was implemented to validate each spawned tile and ensure that no initial matches are created.
 
-### Challenge 3: Difficulty
-**Problem**: Make level harder but possible.
+### Challenge 3: Difficulty Progression
+**Problem**: Increasing the game's difficulty while keeping each level fair and solvable.
 
-**Solution**: Each level has a higher board and higher number of types of tiles to spawn. Levels have a star system wich rewards a number of stars from 0 to 3 based on the score at the end of the level.
+**Solution**: Difficulty increases with each level by expanding the board size and introducing a greater variety of tile types. Each level also features a three-star rating system that rewards players based on their final score, encouraging higher performance and replayability.
 
 
 ---

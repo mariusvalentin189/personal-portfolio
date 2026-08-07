@@ -29,33 +29,33 @@ highlights:
   - "Bosses"
 ---
 
-A 2D Platformer style game set into medieval times where monsters and magic creatures take over the Kingdom.
+A 2D Platformer game set into medieval times where monsters and magic creatures take over the Kingdom.
 
 ## Overview
 
-Developed a 2D Platformer style game with RPG mechanics.
+Developed a 2D platformer game with RPG mechanics.
 
 ## Challenges & Solutions
 
 ### Challenge 1: Combat
-**Problem**: Combat needed to match the game pace
+**Problem**: The combat system needed to match the fast-paced gameplay of the platformer.
 
-**Solution**: Combat system uses somehow fast pace combos to match the style of the game (Platformer)
+**Solution**: Implemented a fast-paced combo-based combat system that complements the platforming gameplay and keeps combat engaging.
 
-### Challenge 2: Levelling
-**Problem**: Make levelling system have an impact on the player stats but do not make the experience too boring and easy
+### Challenge 2: Leveling
+**Problem**: The leveling system needed to have a meaningful impact on player stats without making the game too easy or repetitive.
 
-**Solution**: Implemented the levelling system in such a way that in increases the player base stats and in addition makes it possible to add points to the player stats. Progression is made so that the player is expected to have a certain level and equipment during key points in the game. Game is possible to be beaten without any advantages, which gives the opportunity for challenge.
+**Solution**: Implemented a leveling system that increases the player's base stats while also allowing players to allocate stat points to customize their character. Progression was balanced so that players are expected to reach certain levels and obtain appropriate equipment at key points in the game. However, the game can still be completed without these advantages, providing an additional challenge for skilled players.
 
 ### Challenge 3: Shop and Equipment
-**Problem**: Equipment needed to be implemented in a way to add additional stats to the player. Also some way to aquire the equipment was needed
+**Problem**: Equipment needed to provide meaningful stat bonuses, and the player needed a way to acquire it.
 
-**Solution**: Implemented an equipment system, which inclided armor and weapons, that add additional stats to the player. A shop system was added so that the player can aquire the equipment by using the Coins gathered from enemies.
+**Solution**: Implemented an equipment system that includes weapons and armor, each providing additional stat bonuses. A shop system was also added, allowing players to purchase equipment using Coins collected from defeated enemies.
 
 ### Challenge 4: Difficulty management
-**Problem**: Player health is not regenerating unless the player levels up, which leads to not being able to regenerate health
+**Problem**: Player health does not regenerate naturally and is only restored when leveling up, making it difficult to recover during longer sections of the game.
 
-**Solution**: Added health potions to the shop that can be purchased with Coins. Quantity of potions that can be held at any time was limited
+**Solution**: Added health potions to the shop, which can be purchased using Coins. To maintain game balance, the number of potions the player can carry at any given time is limited.
 
 ---
 

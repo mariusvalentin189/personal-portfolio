@@ -28,33 +28,33 @@ highlights:
   - "Shop system - unlock towers and upgrades"
 ---
 
-A 3D Tower Deffence game with power ups
+A 3D Tower Deffence game with power ups.
 
 ## Overview
 
-Developed a 3D Tower Deffence game with upgrades mechanics. The player is able to place and upgrade towers and move the camera around the area.
+Developed a 3D Tower Defense game with upgrade mechanics. The player can place and upgrade towers while moving the camera freely around the level.
 
 ## Challenges & Solutions
 
 ### Challenge 1: Towers
-**Problem**: Towers needed to be balanced and not make the game too easy or hard.
+**Problem**: The towers needed to be balanced so the game was neither too easy nor too difficult.
 
-**Solution**: A combination of multiple types of towers and upgrades were added in order to be able to power up for the stronger enemies.
+**Solution**: A combination of different tower types and upgrade paths was added, allowing players to strengthen their defenses against more powerful enemies.
 
 ### Challenge 2: Camera
-**Problem**: A camera system that fits the style of the game needed to be implemented. A static camera could have been used but that takes away the idea of a 3D game.
+**Problem**: A camera system that fit the style of the game needed to be implemented. A static camera could have been used, but that would have taken away from the experience of playing a 3D game.
 
-**Solution**: Implemented the camera movement ssytem in a way that lets the player move, rotate and zoom the camera in any way in the level.
+**Solution**: Implemented a camera movement system that allows the player to move, rotate, and zoom the camera freely throughout the level.
 
 ### Challenge 3: Gameplay
-**Problem**: Ways to reward the player for completing the level as fast and efficient to be added so that it rewards skill.
+**Problem**: A rewarding progression system was needed to encourage players to complete levels as quickly and efficiently as possible, rewarding skillful play.
 
-**Solution**: Implemented a way so that the player receives coins based on the remaining coins at the end of the level, time spent on the level and lives left. The coins are used in the shop to unlock new towers or upgrade the existing ones.
+**Solution**: Implemented a reward system where the player receives Coins based on the number of remaining Coins, the time spent completing the level, and the number of lives left. These Coins can be used in the shop to unlock new towers or upgrade existing ones.
 
 ### Challenge 4: Difficulty management
-**Problem**: The difficulty of the levels to be adapted so that the player does not finish the level too easy unless Coins are farmed.
+**Problem**: The difficulty of each level needed to be balanced so that players could not complete it too easily without first earning and investing Coins.
 
-**Solution**: Unlocking the towers upgrades means the towers can be upgraded in game. Purchasing a tower places it at the first upgrade. Purchasing the upgrade will cost Coins earned during the level.
+**Solution**: Unlocking tower upgrades allows towers to be upgraded during gameplay. Purchasing a tower places it at the first upgrade level, while further upgrades require spending Coins earned during the level.
 
 ---
 
