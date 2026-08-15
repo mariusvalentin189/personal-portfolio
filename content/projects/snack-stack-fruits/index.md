@@ -15,7 +15,7 @@ links:
     url: https://github.com/mariusvalentin189/Snack-Stack-Fruits
     label: Code
 featured: true
-status: "In Progress"
+status: "Completed "
 role: "Game Developer"
 duration: "2 months"
 team_size: 1
@@ -46,8 +46,15 @@ Developed a match-3 game in Unity based on the core mechanics of the genre. The 
 
 **Solution**: Difficulty increases with each level by expanding the board size and introducing a greater variety of tile types. Each level also features a three-star rating system that rewards players based on their final score, encouraging higher performance and replayability.
 
+## Screenshots
+
+![](snack_1.png)
+![](snack_2.png)
+![](snack_3.png)
+![](snack_4.png)
 
 ---
 
-**Project Status**: 🛠️ Progress 
+**Project Status**: ✅ Completed 
 **GitHub**: [View Source Code](https://github.com/mariusvalentin189/Snack-Stack-Fruits)
+**Demo**: [Play it](https://mariusdev.itch.io/snack-stack-fruits)
