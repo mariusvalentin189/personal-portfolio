@@ -56,5 +56,5 @@ Developed a match-3 game in Unity based on the core mechanics of the genre. The 
 ---
 
 **Project Status**: ✅ Completed 
-**GitHub**: [View Source Code](https://github.com/mariusvalentin189/Snack-Stack-Fruits)
+**GitHub**: [View Source Code](https://github.com/mariusvalentin189/Snack-Stack-Fruits)  
 **Demo**: [Play it](https://mariusdev.itch.io/snack-stack-fruits)
